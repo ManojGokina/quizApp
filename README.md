@@ -24,10 +24,6 @@ If the timer reaches 0 or the user completes the questions, the box should show 
 
 When submitted the the score should be added to the highscores.
 
-## Instructions
-Your challenge is to build out this project and get it looking as close to the design as possible.
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
-Your project should:
-1- Be responsive for desktop and mobile phones
-2- Have minimum functionalities and effects working
+## About the app
+1- It is completely responsive for desktop and mobile phones.
+2- It has minimum functionalities and effects working.
