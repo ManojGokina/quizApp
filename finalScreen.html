@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Screen</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+
+<body>
+    <div class="finalScreenContainer" id="final">
+        <div id="finalMessage">
+            <h2>All done!</h2>
+        </div>
+        <div class="finalScore">
+            <p>Your final score is </p>
+            <h4 id="Score">0</h4>
+        </div>
+        <div class="initials">
+            <label >Enter initials :</label>
+            <input type="text" name="userName" id="userName" class="userName">
+            <button type="submit" id="submit" class="submit" onclick="saveHighScore()"
+        disabled >Submit</button>
+        </div>
+    </div>
+</body>
+<script src="./finalScreen.js"></script>
+
+</html>
